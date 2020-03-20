@@ -1,6 +1,7 @@
 
-//     starting page
 
+
+//     starting page
 
 import javax.swing.*;
 import java.awt.*;
@@ -23,7 +24,7 @@ class loading
         book.setBounds(120,180,100,100);
         f5.add(book);
         
-       c.setBackground(new Color(100,200,10,109));
+        c.setBackground(new Color(100,200,10,109));
         pb.setBounds(70,110,200,30);//progress bar
         pb.setStringPainted(true);
         pb.setBackground(Color.white);
@@ -56,8 +57,7 @@ class loading
             try{
                 Thread.sleep(70);       
             }catch(Exception e)
-            {
-                
+            {               
             }
         }     
     }
