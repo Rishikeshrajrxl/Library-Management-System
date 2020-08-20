@@ -6,7 +6,7 @@
 <hr>
 
 
-<img src="1.png" height="500" weidth="500" >
+<img src="1.png" height="500" width="500" >
 
 <img src="2.png" height="600" weidth="600" >
 <img src="3.png" height="600" weidth="600" >
